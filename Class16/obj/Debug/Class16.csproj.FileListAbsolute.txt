@@ -1,0 +1,7 @@
+C:\Users\Moe\source\repos\Class16\Class16\bin\Debug\Class16.exe.config
+C:\Users\Moe\source\repos\Class16\Class16\bin\Debug\Class16.exe
+C:\Users\Moe\source\repos\Class16\Class16\bin\Debug\Class16.pdb
+C:\Users\Moe\source\repos\Class16\Class16\obj\Debug\Class16.csprojAssemblyReference.cache
+C:\Users\Moe\source\repos\Class16\Class16\obj\Debug\Class16.csproj.CoreCompileInputs.cache
+C:\Users\Moe\source\repos\Class16\Class16\obj\Debug\Class16.exe
+C:\Users\Moe\source\repos\Class16\Class16\obj\Debug\Class16.pdb
